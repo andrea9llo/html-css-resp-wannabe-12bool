@@ -26,7 +26,7 @@
 
 #why .row > .first,
 #why .row > .second,
-#why .row > .third {
+#why .row > .third{
   margin-top: 80px;
 }
 
@@ -44,4 +44,8 @@
 
 img{
   height: 200px;
+}
+
+[class*="col-"]{
+  margin-top: 50px;
 }
