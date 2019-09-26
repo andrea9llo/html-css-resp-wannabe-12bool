@@ -24,12 +24,6 @@
 /* BLOCCO PERCHE */
 
 
-#why .row > .first,
-#why .row > .second,
-#why .row > .third{
-  margin-top: 80px;
-}
-
 #why .row img {
   background-color:#428bca;
   border-radius:50%;
